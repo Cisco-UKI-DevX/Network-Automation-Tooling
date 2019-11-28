@@ -11,7 +11,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 
 N.B. If you would like the slides to deliver this session as a workshop please drop me an email on sttrayno@cisco.com I'd be happy to provide them
 
-This content is being built out this content as we go for workshops and demos so it may sometimes be in state of flux and always being added to, but the idea behind this material is to allow Cisco SE's, partners and Cisco customers to get to grips with some of the key concepts of network automation, starting off with the underlying tooling thats most commonly used and provide a way for people to leverage some of the custom content thats out there.
+This content is being built out as we go for workshops and demos so it may sometimes be in state of flux, but the idea behind this material is to allow Cisco SE's, partners and Cisco customers to get to grips with some of the key concepts of network automation, starting off with the underlying tooling thats most commonly used and provide a way for people to leverage some of the custom content thats out there.
 
 As of today we currently have the following modules built (please note, we're aiming for each workshop to have a crawl / walk / run levels of complexity, please note this is being built as we go so at the minute some of the modules may be at different levels of completeness.)
 
