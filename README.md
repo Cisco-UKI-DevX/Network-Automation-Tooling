@@ -22,7 +22,7 @@ As of today we currently have the following modules built (please note, we're ai
 | Config management             | ✅ | TBD | TBD |
 | Rest API’s and Scripting.     | ✅ | TBD | TBD |
 | Standardised interfaces to devices | TBD | TBD | TBD |
-| Network test and validation   | ✅ | TBD | TBD |
+| Network test and validation   | ✅ | ✅  | TBD |
 | Streaming telemetry.          | ✅ | TBD | TBD |
 
 
