@@ -17,10 +17,13 @@ As of today we currently have the following modules built (please note, we're ai
 
 
 | Tables                        | Crawl | Walk | Run  |
-| ----------------------------- |:--:| -----:|-----:|
-| Configuration management      | ✅ | |      |
-| Network test and validation   | ✅ | |      |
-| Rest API’s and Scripting.     | ✅ | |      |
+| ----------------------------- |:--:| -----:|----:|
+| Source control                | TBD | TBD | TBD |
+| Config management             | ✅ | TBD | TBD |
+| Rest API’s and Scripting.     | TBD | TBD | TBD |
+| Standardised interfaces to devices | ✅ | TBD | TBD |
+| Network test and validation   | ✅ | TBD | TBD |
+| Streaming telemetry.          | ✅ | TBD | TBD |
 
 
 I'm making this completely available to the community, please feel free to branch this out and build you own content, use it as you wish and please if you spot any errors raise an issue on the repo. Also feel free to reach out to me on twitter @sttrayno or through email at sttrayno@cisco.com
