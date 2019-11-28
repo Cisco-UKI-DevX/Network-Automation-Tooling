@@ -16,7 +16,7 @@ This content is being built out as we go for workshops and demos so is currently
 As of today we currently have the following modules built (please note, we're aiming for each workshop to have a crawl / walk / run levels of complexity, please note this is being built as we go so at the minute some of the modules may be at different levels of completeness.)
 
 
-| Tables                        | Crawl | Walk | Run  |
+| Content                        | Crawl | Walk | Run  |
 | ----------------------------- |:--:| -----:|----:|
 | Source control                | TBD | TBD | TBD |
 | Config management             | ✅ | TBD | TBD |
