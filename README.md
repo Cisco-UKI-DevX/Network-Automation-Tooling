@@ -9,7 +9,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 - Rest API’s and Scripting – Python/REST
 - Streaming telemetry – gRPC/InfinitiDB/Grafana - https://github.com/sttrayno/Streaming-Telemetry-Lab-Guide
 
-I am building out this content as I go for workshops and demos so it may sometimes be in state of flux and always being added to, but the idea behind this material is to allow Cisco SE's, partners and Cisco customers to get to grips with some of the key concepts of network automation, starting off with the underlying tooling thats most commonly used.
+This content is being built out this content as we go for workshops and demos so it may sometimes be in state of flux and always being added to, but the idea behind this material is to allow Cisco SE's, partners and Cisco customers to get to grips with some of the key concepts of network automation, starting off with the underlying tooling thats most commonly used and provide a way for people to leverage some of the custom content thats out there.
 
 As of today we currently have the following modules built (please note, we're aiming for each workshop to have a crawl / walk / run levels of complexity, please note this is being built as we go so at the minute some of the modules may be at different levels of completeness.)
 
