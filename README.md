@@ -26,6 +26,6 @@ As of today we currently have the following modules built (please note, we're ai
 | Streaming telemetry.          | ✅ | TBD | TBD |
 
 
-I'm making this completely available to the community, please feel free to branch this out and build you own content, use it as you wish and please if you spot any errors raise an issue on the repo. Also feel free to reach out to me on twitter @sttrayno or through email at sttrayno@cisco.com
+I'm making this completely available to the community, please feel free to branch this out and build you own content, use it as you wish and please if you spot any errors raise an issue on the repo. Also feel free to reach out to me on twitter @sttrayno or through email at sttrayno@cisco.com 
 
 *Special thank you to Julio Gomez, Simon Hart and Hank Preston whos content has been used quite extensively for some of these initial labs*
