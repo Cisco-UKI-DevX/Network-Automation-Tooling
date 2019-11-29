@@ -6,7 +6,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 - Configuration management - Ansible - https://github.com/sttrayno/Ansible-Lab-Guide
 - Standardised interfaces to devices – NETCONF / RESTCONF
 - Network testing and validation – pyATS - https://github.com/sttrayno/pyATS-Lab-Guide
-- Rest API’s and Scripting – Python/REST
+- Rest API’s and Scripting – Python/REST - https://github.com/GShuttleworth/REST-API-Lab-Guide
 - Streaming telemetry – gRPC/InfinitiDB/Grafana - https://github.com/sttrayno/Streaming-Telemetry-Lab-Guide
 
 `N.B. If you would like the slides to deliver this session as a workshop please drop me an email on sttrayno@cisco.com I'd be happy to provide them`
