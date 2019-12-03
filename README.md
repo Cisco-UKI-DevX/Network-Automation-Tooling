@@ -2,7 +2,7 @@
 
 Welcome to our Network Automation and tooling labs, these labs have been built to be used during a presenter delivered workshop however can act as standalone guides to get you familiar with some of the technologies covered. The normal suggested agenda for the workshop can be seen below with the suggested lab guides:
 
-- Source Control – Gitlab/Github
+- Source Control – Git/Gitlab/Github - https://github.com/GShuttleworth/Introduction-to-Source-Control
 - Configuration management - Ansible - https://github.com/sttrayno/Ansible-Lab-Guide
 - Standardised interfaces to devices – NETCONF / RESTCONF
 - Network testing and validation – pyATS - https://github.com/sttrayno/pyATS-Lab-Guide
@@ -18,7 +18,7 @@ As of today we currently have the following modules built (please note, we're ai
 
 | Content                        | Crawl | Walk | Run  |
 | ----------------------------- |:--:| -----:|----:|
-| Source control                | TBD | TBD | TBD |
+| Source control                | ✅ | TBD | TBD |
 | Config management             | ✅ | TBD | TBD |
 | Rest API’s and Scripting.     | ✅ | TBD | TBD |
 | Standardised interfaces to devices | TBD | TBD | TBD |
