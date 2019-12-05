@@ -1,6 +1,6 @@
 # Network Automation and Tooling Workshop
 
-Welcome to our Network Automation and tooling labs, these labs have been built to be used during a presenter delivered workshop however can act as standalone guides to get you familiar with some of the technologies covered. The normal suggested agenda for the workshop can be seen below with the suggested lab guides:
+Welcome to our Network Automation and tooling labs, these labs have been built to be used during a presenter delivered workshop however can act as standalone guides to get you familiar with some of the technologies covered. These labs are designed to be hands on to give the student experience in using the tools discussed. The normal suggested agenda for the workshop can be seen below with the suggested lab guides:
 
 - Source Control – Git/Gitlab/Github - https://github.com/GShuttleworth/Introduction-to-Source-Control
 - Configuration management - Ansible - https://github.com/sttrayno/Ansible-Lab-Guide
@@ -9,12 +9,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 
 `N.B. If you would like the slides to deliver this session as a workshop please drop me an email on sttrayno@cisco.com I'd be happy to provide them`
 
-This content is being built out as we go for workshops and demos so is currently subject to change. The goal of this material is to allow Cisco SE's, partners and Cisco customers to get to grips with some of the key concepts of network automation, starting off with the underlying tooling thats most commonly used and provide a way for people to leverage some of the custom content thats already out there but is a bit fragmented.
-
-As of today we currently have the following modules built (please note, we're aiming for each workshop to have a crawl / walk / run levels of complexity, please note this is being built as we go so at the minute some of the modules may be at different levels of completeness.)
-
-
-
+This content is being built out as we go for workshops and demos so is currently subject to change. The goal of this material is to allow Cisco SE's, partners and Cisco customers to get to grips with some of the key concepts of network automation, starting off with the underlying tooling thats most commonly used and provide a way for people to leverage some of the custom content thats already out there but has been a bit fragmented
 
 I'm making this completely available to the community, please feel free to branch this out and build you own content, use it as you wish and please if you spot any errors raise an issue on the repo. Also feel free to reach out to me on twitter @sttrayno or through email at sttrayno@cisco.com 
 
