@@ -12,7 +12,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 
 This content is being built out as we go for workshops and demos so is currently subject to change. The goal of this material is to allow Cisco SE's, partners and Cisco customers to get to grips with some of the key concepts of network automation, starting off with the underlying tooling thats most commonly used and provide a way for people to leverage some of the custom content thats already out there but has been a bit fragmented
 
-I'm making this completely available to the community, please feel free to branch this out and build you own content, use it as you wish and please if you spot any errors raise an issue on the repo. Also feel free to reach out to me on twitter @sttrayno or through email at sttrayno@cisco.com 
+I'm making this completely available to the community, please feel free to branch this out and build you own content, use it as you wish and please raise an issue on the repo if you spot any issues. Also feel free to reach out to me on twitter @sttrayno or through email at sttrayno@cisco.com if you have feedback or suggestions on the content.
 
 *Special thank you to Julio Gomez, Simon Hart and Hank Preston whos content has been used quite extensively for some of these initial labs*
 
