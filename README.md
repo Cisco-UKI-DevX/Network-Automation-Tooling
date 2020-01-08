@@ -7,6 +7,8 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 - Stateful configuration management - [Terraform](https://github.com/sttrayno/Terraform-Lab-Guide)
 - Network testing and validation – [pyATS](https://github.com/sttrayno/pyATS-Lab-Guide)
 - Rest API’s and Scripting – [Python/REST](https://github.com/GShuttleworth/REST-API-Lab-Guide)
+- On-box programmability and Scripting – [Guestshell/Python](https://github.com/sttrayno/Guestshell-Lab-Guide)
+
 
 `N.B. If you would like the slides to deliver this session as a workshop please drop me an email on sttrayno@cisco.com I'd be happy to provide them`
 
