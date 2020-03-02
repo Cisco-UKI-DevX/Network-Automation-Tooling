@@ -7,7 +7,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 - Stateful configuration management - [Terraform](https://github.com/sttrayno/Terraform-Lab-Guide)
 - Network testing and validation – [pyATS](https://github.com/sttrayno/pyATS-Lab-Guide)
 - Rest API’s and Scripting – [Python/REST](https://github.com/GShuttleworth/REST-API-Lab-Guide)
-- Network Streaming Telemetry [TIG Stack](https://github.com/sttrayno/Network-Telemetry-Lab-Guide)
+- Network Streaming Telemetry - [TIG Stack](https://github.com/sttrayno/Network-Telemetry-Lab-Guide)
 - On-box programmability and Scripting – [Guestshell/Python](https://github.com/sttrayno/Guestshell-Lab-Guide)
 - On-box compute - [Docker hosting/IOS-XE](https://github.com/sttrayno/9300-Docker-Lab-Guide)
 
