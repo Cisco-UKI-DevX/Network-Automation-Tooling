@@ -9,7 +9,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 - Rest API’s and Scripting – [Python/REST](https://github.com/GShuttleworth/REST-API-Lab-Guide)
 - Network Streaming Telemetry - [Model Driven Telemetry](https://github.com/sttrayno/Network-Telemetry-Lab-Guide) / [ASA VPN Telemetry](https://github.com/sttrayno/ASA-Telemetry-Guide)
 - On-box programmability and Scripting – [Guestshell/Python](https://github.com/sttrayno/Guestshell-Lab-Guide)
-- On-box compute - [Docker hosting/IOS-XE](https://github.com/sttrayno/9300-Docker-Lab-Guide)
+- On-box compute - [Docker hosting on Catalyst 9000](https://github.com/sttrayno/9300-Docker-Lab-Guide)
 
 
 `N.B. If you would like the slides to deliver this session as a workshop please drop me an email on sttrayno@cisco.com I'd be happy to provide them`
