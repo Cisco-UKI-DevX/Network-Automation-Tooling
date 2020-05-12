@@ -6,6 +6,7 @@ Welcome to our Network Automation and tooling labs, these labs have been built t
 - Stateless configuration management - [Ansible Basics](https://github.com/sttrayno/Ansible-Lab-Guide) / [Ansible ASA Deployment](https://github.com/sttrayno/ASAonAWS-Ansible-Deployment)
 - Stateful configuration management - [Terraform on ACI](https://github.com/sttrayno/Terraform-Lab-Guide)
 - Network testing and validation – [pyATS](https://github.com/sttrayno/pyATS-Lab-Guide)
+- Network Simulation - [Cisco Modelling Labs 2](https://github.com/sttrayno/CML-Personal-Guide)
 - Rest API’s and Scripting – [Python/REST](https://github.com/GShuttleworth/REST-API-Lab-Guide)
 - Network Streaming Telemetry - [Model Driven Telemetry](https://github.com/sttrayno/Network-Telemetry-Lab-Guide) / [ASA VPN Telemetry](https://github.com/sttrayno/ASA-Telemetry-Guide)
 - On-box programmability and Scripting – [Guestshell/Python](https://github.com/sttrayno/Guestshell-Lab-Guide)
