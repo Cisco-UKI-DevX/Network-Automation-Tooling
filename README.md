@@ -3,7 +3,7 @@
 Welcome to our Network Automation and tooling labs, these labs have been built to be used during a presenter delivered workshop however can act as standalone guides to get you familiar with some of the technologies covered. These labs are designed to be hands on to give the student experience in using the tools discussed. The normal suggested agenda for the workshop can be seen below with the suggested lab guides:
 
 - Source Control – [Git/Gitlab/Github](https://github.com/GShuttleworth/Introduction-to-Source-Control)
-- Stateless configuration management - [Ansible Basics](https://github.com/sttrayno/Ansible-Lab-Guide) / [Ansible ASA Deployment](https://github.com/sttrayno/ASAonAWS-Ansible-Deployment) / [Ansible Meraki Deployment](https://github.com/sttrayno/Meraki-Ansible-Guide)
+- Stateless configuration management - [Ansible Basics](https://github.com/sttrayno/Ansible-Lab-Guide) / [Ansible ASA Deployment](https://github.com/sttrayno/ASAonAWS-Ansible-Deployment) / [Ansible Meraki Deployment](https://github.com/sttrayno/Meraki-Ansible-Deployment)
 - Stateful configuration management - [Terraform on ACI](https://github.com/sttrayno/Terraform-Lab-Guide)
 - Network testing and validation – [pyATS](https://github.com/sttrayno/pyATS-Lab-Guide)
 - Network Simulation - [Cisco Modelling Labs 2](https://github.com/sttrayno/CML-Personal-Guide)
